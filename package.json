@@ -1,0 +1,11 @@
+{
+  "name": "com.schellingb.unity.capture",
+  "version": "1.0.0",
+  "displayName": "Unity Capture",
+  "unity": "2017.1",
+  "author": {
+    "name": "schellingb"
+  },
+  "description": "Package wrapper for https://github.com/schellingb/UnityCapture",
+  "type": "library"
+}
